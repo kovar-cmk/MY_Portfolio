@@ -14,22 +14,12 @@ module.exports = {
       },
       boxShadow: {
         card: "0px 35px 120px -15px #211e35",
-         floating: "floating 3s ease-in-out infinite",
       },
       screens: {
         xs: "450px",
       },
       backgroundImage: {
         "hero-pattern": "url('/src/assets/herobg.png')",
-      },
-      animation: {
-        floating: "floating 3s ease-in-out infinite", // Define the floating animation
-      },
-      keyframes: {
-        floating: {
-          "0%, 100%": { transform: "translateY(0)" },
-          "50%": { transform: "translateY(-10px)" },
-        },
       },
     },
   },
