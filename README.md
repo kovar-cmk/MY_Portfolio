@@ -12,7 +12,7 @@
      <img src="https://imgs.search.brave.com/XNlktPVIumYsa2imRan2WTxstbfkujHIAvfk6teCtgE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJ3/NHFzL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzAzcmJoYXc1cng1/NzEucG5n" alt="Security" width="80"/>
   </div>
 
-  <h2 align="center">Abdelbasset Benghina a Network Engineer  and Cybersecurity Reasearcher</h2>
+  <h2 align="left">Abdelbasset Benghina a Network Engineer  and Cybersecurity Reasearcher</h2>
 
 ### Abdelbasset Benghina
 👋 Hi there! I’m Abdelbasset, a passionate Network Administrator, Network Security Tester, and aspiring Sales Engineer. I thrive on designing and implementing cutting-edge connectivity and cybersecurity 
