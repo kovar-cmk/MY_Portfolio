@@ -1,14 +1,15 @@
-<div align="center">
+![image](https://github.com/kovar-cmk/My_Portfolio/assets/69486825/9a5b9da8-dbdf-4186-bf61-c4d18f432057)<div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
+      <img src="https://imgs.search.brave.com/HWiTqFbHSTu_7hjhp9HTlyrhn31yfS8o7TkUI8aszws/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lbmdp/bmVlcmluZy5mYi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMDUvZGF0YS1j/ZW50ZXItc2hvdC5q/cGc" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://imgs.search.brave.com/9FJucD5uOYdo_z1TCQZsXm0UEUICV9wxULVlQvINB7Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzLzg2MV9j/aXNjby5qcGc" alt="Networking" />
+    <img  src="https://icon-sets.iconify.design/simple-icons/tryhackme/" alt="Penetration Testing" />
+    <img src="https://imgs.search.brave.com/Rxy31QAXB_98y8uotptMi9C7MJ3uysH1IY1PHDHbuF8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q4L1JlZF9IYXRf/bG9nby5zdmc.svg" alt="System Administratrion" />
+    <img src="https://imgs.search.brave.com/M-FiGkB1jPVADW6xtp-i7TJcdhipqz463z8s2cuR3WY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MTUyZmNlZjEw/MTRjMGI1ZTQ5Njcu/cG5n" alt="Programming" />
+     <img alt="Security" />
   </div>
 
   <h3 align="center">A 3D Developer Portfolio</h3>
