@@ -12,14 +12,14 @@
      <img src="https://imgs.search.brave.com/XNlktPVIumYsa2imRan2WTxstbfkujHIAvfk6teCtgE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJ3/NHFzL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzAzcmJoYXc1cng1/NzEucG5n" alt="Security" width="80"/>
   </div>
 
-  <h2 align="left">Abdelbasset Benghina a Network Engineer  and Cybersecurity Reasearcher</h2>
-<div  align="left">
+  <h2 align="center">Abdelbasset Benghina a Network Engineer  and Cybersecurity Reasearcher</h2>
+<div  align="center">
 ### Abdelbasset Benghina
 👋 Hi there! I’m Abdelbasset, a passionate Network Administrator, Network Security Tester, and aspiring Sales Engineer. I thrive on designing and implementing cutting-edge connectivity and cybersecurity 
  solutions in dynamic and international environments. My technical expertise and hands-on mentality drive me to contribute to the success of global customers, especially in critical industries like banking 
  and energy.
 
-<h1>Experience</h1>
+<h1 align="left">Experience</h1>
 
 # Network Administrator & Network Security Tester </br>
 Virtual Company (EVE-NG) | March 2021 - July 2021 </br>
@@ -29,43 +29,43 @@ Conducted attack emulation and network behavior analysis.</br>
 System / Network Administrator</br>
 
 ## SARL EOAT Construction Company | January 2020 - 2023
-Enhanced intranetwork performance.
-Implemented VPN technologies for branch connectivity.
-Deployed IP Telephony and QoS technologies.
-Installed and updated server software.
-Configured backups and designed backup plans.
-Implemented security concepts in servers and core network racks.
+Enhanced intranetwork performance.</br>
+Implemented VPN technologies for branch connectivity.</br>
+Deployed IP Telephony and QoS technologies.</br>
+Installed and updated server software.</br>
+Configured backups and designed backup plans.</br>
+Implemented security concepts in servers and core network racks.</br>
 
-<h3>Skills Summary</h3>
-Operating Systems: Proficient in Windows (7/8.1/10/11), Server 2012 R2, Ubuntu Server, and Mac OS.
-Networking: Extensive experience with Active Directory, PowerShell, TCP/IP, DNS, DHCP, LAN/WAN, routing, and switching technologies.
-Penetration Testing: Skilled in LFI/RFI, SQLi, vulnerability assessment, and privilege escalation.
-System Administration: Familiar with ServiceNow, Ubuntu, Windows, and Azure.
-Programming Skills: Proficient in Python, HTML, CSS, and JavaScript.
+<h3 align="left">Skills Summary</h3>
+Operating Systems: Proficient in Windows (7/8.1/10/11), Server 2012 R2, Ubuntu Server, and Mac OS.</br>
+Networking: Extensive experience with Active Directory, PowerShell, TCP/IP, DNS, DHCP, LAN/WAN, routing, and switching technologies.</br>
+Penetration Testing: Skilled in LFI/RFI, SQLi, vulnerability assessment, and privilege escalation.</br>
+System Administration: Familiar with ServiceNow, Ubuntu, Windows, and Azure.</br>
+Programming Skills: Proficient in Python, HTML, CSS, and JavaScript.</br>
 
-<h3>Languages</h3>
-Arabic (NATIVE)
-English (Fluent)
-French (intermédiaire)
-Certifications
-Cisco Certified Network Associate (CCNA)
+<h3 align="left">Languages</h3>
+Arabic (NATIVE)</br>
+English (Fluent)</br>
+French (intermédiaire)</br>
+Certifications</br>
 
-<h3>Connect with Me</h3>
+
+<h3 align="left">Connect with Me</h3>
 LinkedIn:https://www.linkedin.com/in/abdelbasset-benghina-512144124/</br>
 Tryhackme:https://tryhackme.com/p/kovar</br>
 Twitter:https://twitter.com/bassetbng</br>
 YouTube:https://www.youtube.com/channel/UCMFff7T3zPE_W0YL4uuq_Kw</br>
 Instagram:https://www.instagram.com/net_shelter/</br>
 
-<h3 align="center" ClassName="text-[aquamarine]">Notable Projects</h3>
-BGP:
-BGP TTL Security, internal BGP, EBGP – External BGP, BGP Update Source
-MULTICAST:
-IGMPV1, IGMPV2, PIM Sparse-mode, PIM Dense-mode
-FHRP:
-HSRPV1, HSRPV2, VRRP
-Automation:
-EEM (Embedded Event Manager), scheduler, Ansible, Python, Puppet
-Meta-Lab:
-BGP_VRF_BFD_OSPF (all-in-one project)
+<h3 align="center" >Notable Projects</h3>
+BGP:</br>
+BGP TTL Security, internal BGP, EBGP – External BGP, BGP Update Source</br>
+MULTICAST:</br>
+IGMPV1, IGMPV2, PIM Sparse-mode, PIM Dense-mode</br>
+FHRP:</br>
+HSRPV1, HSRPV2, VRRP</br>
+Automation:</br>
+EEM (Embedded Event Manager), scheduler, Ansible, Python, Puppet</br>
+Meta-Lab:</br>
+BGP_VRF_BFD_OSPF (all-in-one project)</br>
 </div>
