@@ -1,12 +1,12 @@
-![image](https://github.com/kovar-cmk/My_Portfolio/assets/69486825/9a5b9da8-dbdf-4186-bf61-c4d18f432057)<div align="center">
+<div align="center">
   <br />
-   {*\<img src="https://imgs.search.brave.com/HWiTqFbHSTu_7hjhp9HTlyrhn31yfS8o7TkUI8aszws/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lbmdp/bmVlcmluZy5mYi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMDUvZGF0YS1j/ZW50ZXItc2hvdC5q/cGc" alt="Project Banner">\*}
+      <img src="https://imgs.search.brave.com/HWiTqFbHSTu_7hjhp9HTlyrhn31yfS8o7TkUI8aszws/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lbmdp/bmVlcmluZy5mYi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMDUvZGF0YS1j/ZW50ZXItc2hvdC5q/cGc" alt="Project Banner">
     </a>
   <br />
 
   <div>
    */ <img src="https://imgs.search.brave.com/9FJucD5uOYdo_z1TCQZsXm0UEUICV9wxULVlQvINB7Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzLzg2MV9j/aXNjby5qcGc" alt="Networking" className="w-20 "/>
-    <img  src="https://icon-sets.iconify.design/simple-icons/tryhackme/" alt="Penetration Testing" />
+    <img  src="" alt="Penetration Testing" />
     <img src="https://imgs.search.brave.com/Rxy31QAXB_98y8uotptMi9C7MJ3uysH1IY1PHDHbuF8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q4L1JlZF9IYXRf/bG9nby5zdmc.svg" alt="System Administratrion" />
     <img src="https://imgs.search.brave.com/M-FiGkB1jPVADW6xtp-i7TJcdhipqz463z8s2cuR3WY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MTUyZmNlZjEw/MTRjMGI1ZTQ5Njcu/cG5n" alt="Programming" />
      <img src="https://imgs.search.brave.com/XNlktPVIumYsa2imRan2WTxstbfkujHIAvfk6teCtgE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJ3/NHFzL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzAzcmJoYXc1cng1/NzEucG5n" alt="Security" />
