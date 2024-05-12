@@ -12,49 +12,52 @@
      <img src="https://imgs.search.brave.com/XNlktPVIumYsa2imRan2WTxstbfkujHIAvfk6teCtgE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJ3/NHFzL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzAzcmJoYXc1cng1/NzEucG5n" alt="Security" width="80"/>
   </div>
 
-  <h3 align="center">Abdelbasset Benghina a Network Engineer  and Cybersecurity Reasearcher</h3>
+  <h2 align="center">Abdelbasset Benghina a Network Engineer  and Cybersecurity Reasearcher</h2>
 
 ### Abdelbasset Benghina
-       👋 Hi there! I’m Abdelbasset, a passionate Network Administrator, Network Security Tester, and aspiring Sales Engineer. I thrive on designing and implementing cutting-edge connectivity and cybersecurity 
-       solutions in dynamic and international environments. My technical expertise and hands-on mentality drive me to contribute to the success of global customers, especially in critical industries like banking 
-        and energy.
+👋 Hi there! I’m Abdelbasset, a passionate Network Administrator, Network Security Tester, and aspiring Sales Engineer. I thrive on designing and implementing cutting-edge connectivity and cybersecurity 
+ solutions in dynamic and international environments. My technical expertise and hands-on mentality drive me to contribute to the success of global customers, especially in critical industries like banking 
+ and energy.
 
-Experience
-Network Administrator & Network Security Tester
+<h1>Experience</h1>
+
+# Network Administrator & Network Security Tester
 Virtual Company (EVE-NG) | March 2021 - July 2021
-
 Implemented VXLAN and data center technologies.
 Deployed VPN technology.
 Conducted attack emulation and network behavior analysis.
 System / Network Administrator
-SARL EOAT Construction Company | January 2020 - 2023
 
+## SARL EOAT Construction Company | January 2020 - 2023
 Enhanced intranetwork performance.
 Implemented VPN technologies for branch connectivity.
 Deployed IP Telephony and QoS technologies.
 Installed and updated server software.
 Configured backups and designed backup plans.
 Implemented security concepts in servers and core network racks.
-Skills Summary
+
+<h3>Skills Summary</h3>
 Operating Systems: Proficient in Windows (7/8.1/10/11), Server 2012 R2, Ubuntu Server, and Mac OS.
 Networking: Extensive experience with Active Directory, PowerShell, TCP/IP, DNS, DHCP, LAN/WAN, routing, and switching technologies.
 Penetration Testing: Skilled in LFI/RFI, SQLi, vulnerability assessment, and privilege escalation.
 System Administration: Familiar with ServiceNow, Ubuntu, Windows, and Azure.
 Programming Skills: Proficient in Python, HTML, CSS, and JavaScript.
-Languages
+
+<h3>Languages</h3>
 Arabic (NATIVE)
 English (Fluent)
 French (intermédiaire)
 Certifications
 Cisco Certified Network Associate (CCNA)
-Connect with Me
-LinkedIn
-Tryhackme
-Github
-Twitter
-YouTube
-Instagram
-Notable Projects
+
+<h3>Connect with Me</h3>
+LinkedIn:https://www.linkedin.com/in/abdelbasset-benghina-512144124/
+Tryhackme:https://tryhackme.com/p/kovar
+Twitter:https://twitter.com/bassetbng
+YouTube:https://www.youtube.com/channel/UCMFff7T3zPE_W0YL4uuq_Kw
+Instagram:https://www.instagram.com/net_shelter/
+
+<h3 align="center">Notable Projects</h3>
 BGP:
 BGP TTL Security, internal BGP, EBGP – External BGP, BGP Update Source
 MULTICAST:
