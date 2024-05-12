@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <br />
       <img  align="center" src="https://imgs.search.brave.com/HWiTqFbHSTu_7hjhp9HTlyrhn31yfS8o7TkUI8aszws/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lbmdp/bmVlcmluZy5mYi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMDUvZGF0YS1j/ZW50ZXItc2hvdC5q/cGc" alt="Project Banner" width="1080">
     </a>
